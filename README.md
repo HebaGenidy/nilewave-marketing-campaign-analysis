@@ -1,7 +1,5 @@
 # 📊 NileWave Marketing Campaign Performance Dashboard
 
-![Dashboard Preview](assets/image_f24d26.png)
-
 ## 📌 Project Overview
 This project presents an end-to-end performance analysis of **811 digital marketing campaigns** across 6 acquisition channels from **Jan 2024 to Jun 2025**. Built as the final milestone hands-on project for the Excel module at **EraSoft**, this dashboard evaluates revenue efficiency, spending behavior, and audience targeting metrics to drive data-informed marketing decisions.
 
@@ -35,3 +33,6 @@ This project presents an end-to-end performance analysis of **811 digital market
 ---
 
 ## 📁 Repository Structure
+├── NileWave_Campaign_Performance_Dashboard.xlsx   # Main Excel File (Power Query & Model)
+├── assets/                                        # Dashboard Screenshots & Video Demo
+└── README.md                                      # Documentation
